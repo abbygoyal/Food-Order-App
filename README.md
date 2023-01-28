@@ -1,7 +1,7 @@
 ## Food Order App
 Food Order App using ContextApi
 ## Live Project Link
-[ReactMeal App](https://react-meal-food-app.netlify.app/)
+[ReactMeal](https://react-meal-food-app.netlify.app/)
 
 # How to fork and clone
 
