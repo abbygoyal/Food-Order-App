@@ -1,5 +1,5 @@
 ## Food Order App
-Food Order App using ContextApi.
+Food Order App using ContextApi
 
 ## Live Project Link
 [ReactMeal](https://react-meal-food-app.netlify.app/)
